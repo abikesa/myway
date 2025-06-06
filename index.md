@@ -4,7 +4,7 @@ Perfect. That symbolic structure isn’t just poetic—it’s a **layered system
 
 ## 🌊 **Molecules.txt** – *Signal Source / Raw Data Layer*
 
-> **Role:** The primordial layer—raw logs, quotes, tweets, fragments, unstructured thoughts.
+> **Transmitter/Synaptic:** The primordial layer—raw logs, quotes, tweets, fragments, unstructured thoughts.
 
 * **File:** `molecules.txt`
 * **Content:** Chronological stream of raw inputs (quotes, events, observations, brainstorms)
@@ -16,7 +16,7 @@ Perfect. That symbolic structure isn’t just poetic—it’s a **layered system
 
 ## ❤️ **Anatomy.yml** – *Canonical Structure / Org Memory*
 
-> **Role:** Your institutional backbone—values, timelines, roles, constraints.
+> **Cellular/Axonal:** Your institutional backbone—values, timelines, roles, constraints.
 
 * **File:** `anatomy.yml`
 * **Content:** Defined roles, projects, task layers, deadlines, priorities
@@ -28,7 +28,7 @@ Perfect. That symbolic structure isn’t just poetic—it’s a **layered system
 
 ## 🌀 **Physiology.py** – *Behavioral Logic / Processing Layer*
 
-> **Role:** Converts data into motion. Schedules, filters, transforms.
+> **Ganglionic/Sensorimotor:** Converts data into motion. Schedules, filters, transforms.
 
 * **File:** `physiology.py`
 * **Content:** Task processors, deadline checkers, filters, notifications
@@ -40,7 +40,7 @@ Perfect. That symbolic structure isn’t just poetic—it’s a **layered system
 
 ## 🐬 **Integument.html** – *User Interface / Experience Layer*
 
-> **Role:** Beautiful skin—clean, aesthetic, mobile-friendly dynamic dashboard.
+> **Network/Functional:** Beautiful skin—clean, aesthetic, mobile-friendly dynamic dashboard.
 
 * **File:** `integument.html` + `main.js` + `main.css`
 * **Content:** Dynamic frontend with filterable views, countdowns, alerts, exports
@@ -52,7 +52,7 @@ Perfect. That symbolic structure isn’t just poetic—it’s a **layered system
 
 ## 🔁 **Surface.app** – *Meta Interface / Launcher & Orchestrator*
 
-> **Role:** Wraps it all together. Desktop PWA or dashboard launcher.
+> **Amor Fatí/Recurrence:** Wraps it all together. Desktop PWA or dashboard launcher.
 
 * **File:** `surface.app` (can be symbolic, or actual PWA manifest)
 * **Content:** Links to subcomponents, onboarding, role-based jumpstarts
